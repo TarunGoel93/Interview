@@ -1,0 +1,191 @@
+body{
+  margin: 0px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.navbar{
+  position: relative;
+  display: flex;
+  background-color: black;
+  height: 60px;
+  width: 100%;
+  }
+#brandName{
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 50px;
+    color: white;
+  }
+#home{
+    position: absolute;
+    color: white;
+    left: 20%;
+    height: 45px;
+    width: 60px;
+    padding-top: 15px;
+    padding-left: 10px;
+    font-size: 20px;
+  }
+  #profile{
+    position: absolute;
+    color: white;
+    left: 24.7%;
+    height: 45px;
+    width: 65px;
+    padding-top: 15px;
+    padding-left: 10px;
+    font-size: 20px;
+  }
+  #conduct{
+    position: absolute;
+    color: white;
+    left: 29.7%;
+    height: 45px;
+    width: fit-content;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+  }
+  .leftbar{
+    position: relative;
+  }
+  #intern{
+    position: absolute;
+    color: black;
+    left: 0%;
+    height: 45px;
+    width: fit-content;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 40px;
+    font-size: 20px;
+  }
+  #acc{
+    position: absolute;
+    color: grey;
+   margin-top: 62px;
+   height: 45px;
+   width: fit-content;
+   padding-top: 15px;
+   padding-left: 20px;
+   padding-right: 53px;
+   font-size: 20px;
+  }
+  #sycn{
+    
+    position: absolute;
+    color: grey;
+    margin-top: 125px;
+    height: 45px;
+    width: fit-content;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 67px;
+    font-size: 20px;
+  }
+  .mainbox{
+    position: relative;
+    margin-left: 210px;
+    height: 1000px;
+    width: 2000px;
+    background-color:rgb(255, 248, 248);
+  }
+  #all{
+    position: absolute;
+    height: 40px;
+    width: fit-content;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+  }
+
+  #line{
+    position: absolute;
+    background-color: rgb(204, 201, 201);
+    top: 8%;
+    left: 1.8%;
+    height: 1px;
+    width: 1200px;
+  }
+.exper{
+  height: 800px;
+  width: 100%;
+  position: relative;
+  top: 9%;
+  left: 1%;
+}
+#b1{
+  height: 80px;
+  width: 800px;    background-color: #F2F2F2;
+  position: relative;
+  top: 3%;
+  left: 1%;
+  border-radius: 10px;
+}
+#b2{
+  height: 80px;
+  width: 800px;    background-color: #F2F2F2;
+  position: relative;
+  top: 3%;
+  left: 1%;
+  margin-top: 5px;
+  border-radius: 10px;
+}
+#b3{
+  height: 80px;
+  width: 800px;    background-color: #F2F2F2;
+  position: relative;
+  top: 3%;
+  left: 1%;
+  margin-top: 5px;
+  border-radius: 10px;
+}
+#b4{
+  height: 80px;
+  width: 800px;    background-color: #F2F2F2;
+  position: relative;
+  top: 3%;
+  left: 1%;
+  margin-top: 5px;
+  border-radius: 10px;
+}
+#b5{
+  height: 80px;
+  width: 800px;    background-color: #F2F2F2;
+  position: relative;
+  top: 3%;
+  left: 1%;
+  margin-top: 5px;
+  border-radius: 10px;
+}
+h2{
+  margin-top: 20px;
+  margin-left: 50px;
+  padding-top: 10px;
+  font-size: 40px;
+}
+p{
+  position: absolute;
+  top: 10%;
+  left: 42%;
+  font-weight: bold;
+}
+#go{
+  position: relative;
+   left: 47%;
+   background-color: black;
+   color: white;
+   font-size: 30px;
+   height: max-content;
+   width: max-content;
+   margin-left: 20px;
+   padding: 10px 10px 10px 10px;
+   border-radius: 30px;
+ }
