@@ -1,0 +1,226 @@
+body{
+  margin: 0px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.navbar{
+  position: relative;
+  display: flex;
+  background-color: black;
+  height: 60px;
+  width: 100%;
+  }
+#brandName{
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 50px;
+    color: white;
+  }
+#home{
+    position: absolute;
+    color: white;
+    left: 20%;
+    height: 45px;
+    width: 60px;
+    padding-top: 15px;
+    padding-left: 10px;
+    font-size: 20px;
+  }
+  #profile{
+    position: absolute;
+    color: white;
+    left: 24.7%;
+    height: 45px;
+    width: 65px;
+    padding-top: 15px;
+    padding-left: 10px;
+    font-size: 20px;
+  }
+  #conduct{
+    position: absolute;
+    color: white;
+    left: 29.7%;
+    height: 45px;
+    width: fit-content;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+  }
+  .leftbar{
+    position: relative;
+  }
+  #intern{
+    position: absolute;
+    color: black;
+    left: 0%;
+    height: 45px;
+    width: fit-content;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 40px;
+    font-size: 20px;
+  }
+  #acc{
+    position: absolute;
+    color: grey;
+   margin-top: 62px;
+   height: 45px;
+   width: fit-content;
+   padding-top: 15px;
+   padding-left: 20px;
+   padding-right: 53px;
+   font-size: 20px;
+  }
+  #sycn{
+    
+    position: absolute;
+    color: grey;
+    margin-top: 125px;
+    height: 45px;
+    width: fit-content;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 67px;
+    font-size: 20px;
+  }
+  .mainbox{
+    position: relative;
+    margin-left: 210px;
+    height: 1000px;
+    width: 2000px;
+    background-color:rgb(255, 248, 248);
+  }
+  #all{
+    position: absolute;
+    height: 40px;
+    width: fit-content;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+  }
+
+  #line{
+    position: absolute;
+    background-color: rgb(198, 197, 197);
+    top: 8%;
+    left: 1.8%;
+    height: 1px;
+    width: 1200px;
+  }
+  #choose{
+    position: absolute;
+    top: 9%;
+    left: 1.8%;
+  }
+
+  .b1{
+    position: relative;
+    top:18%;
+    height: 21px;
+    width: 120px;
+    box-shadow: 0px 0px 10px 1px ;
+    margin-left: 20px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 20px;
+  }
+#ht{
+  position: absolute;
+  top: 18%;
+  height: 40px;
+  width: 40px;
+}
+#h{
+  position: absolute;
+  top: -60%;
+  left: 40%;
+  font-size: 30px;
+}
+.b2{
+  position: relative;
+  top:12%;
+  left: 10%;
+  height: 21px;
+  width: 120px;
+  box-shadow: 0px 0px 10px 1px ;
+  margin-left: 20px;
+  padding: 20px 20px 20px 20px;
+  border-radius: 20px;
+}
+#c{
+  position: absolute;
+  top: -60%;
+  left: 40%;
+  font-size: 30px;
+}
+.b3{
+  position: relative;
+  top:6%;
+  left: 20%;
+  height: 21px;
+  width: 200px;
+  box-shadow: 0px 0px 10px 1px ;
+  margin-left: 20px;
+  padding: 20px 20px 20px 20px;
+  border-radius: 20px;
+}
+#j{
+  position: absolute;
+  top: -60%;
+  left: 30%;
+  font-size: 30px;
+}
+.b4{
+  position: relative;
+  top:0%;
+  left: 35%;
+  height: 21px;
+  width: 200px;
+  box-shadow: 0px 0px 10px 1px ;
+  margin-left: 20px;
+  padding: 20px 20px 20px 20px;
+  border-radius: 20px;
+}
+.b5{
+  position: relative;
+  top:-6%;
+  left: 50%;
+  height: 21px;
+  width: 200px;
+  box-shadow: 0px 0px 10px 1px ;
+  margin-left: 20px;
+  padding: 20px 20px 20px 20px;
+  border-radius: 20px;
+}
+#back{
+ position: relative;
+  top:25%;
+  left: 3%;
+  font-size: 30px;
+  height: max-content;
+  width: max-content;
+  box-shadow: 0px 0px 10px 1px ;
+  margin-left: 20px;
+  padding: 5px 10px 0px 5px;
+}
+#go{
+  position: relative;
+   top:21.5%;
+   left: 45%;
+   background-color: black;
+   color: white;
+   font-size: 30px;
+   height: max-content;
+   width: max-content;
+   margin-left: 20px;
+   padding: 10px 10px 10px 10px;
+   border-radius: 30px;
+ }
+
+  
