@@ -1,0 +1,250 @@
+body{
+  margin: 0px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.navbar{
+position: relative;
+display: flex;
+background-color: black;
+height: 60px;
+width: 100%;
+}
+#brandName{
+  position: absolute;
+  margin-top: -10px;
+  margin-left: 50px;
+  color: white;
+}
+#home{
+  position: absolute;
+  color: white;
+  left: 20%;
+  height: 45px;
+  width: 60px;
+  padding-top: 15px;
+  padding-left: 10px;
+  font-size: 20px;
+}
+#profile{
+  position: absolute;
+  color: white;
+  left: 24.7%;
+  height: 45px;
+  width: 65px;
+  padding-top: 15px;
+  padding-left: 10px;
+  font-size: 20px;
+}
+#conduct{
+  position: absolute;
+  color: white;
+  left: 29.7%;
+  height: 45px;
+  width: fit-content;
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+}
+.leftbar{
+  position: relative;
+}
+#intern{
+  position: absolute;
+  color: black;
+  left: 0%;
+  height: 45px;
+  width: fit-content;
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-right: 40px;
+  font-size: 20px;
+}
+#acc{
+  position: absolute;
+  color: grey;
+ margin-top: 62px;
+ height: 45px;
+ width: fit-content;
+ padding-top: 15px;
+ padding-left: 20px;
+ padding-right: 53px;
+ font-size: 20px;
+}
+#sycn{
+  
+  position: absolute;
+  color: grey;
+  margin-top: 125px;
+  height: 45px;
+  width: fit-content;
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-right: 67px;
+  font-size: 20px;
+}
+.mainbox{
+  position: relative;
+  margin-left: 210px;
+  height: 1000px;
+  width: 2000px;
+  background-color:rgb(255, 248, 248);
+}
+#all{
+  position: absolute;
+  height: 40px;
+  width: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 20px;
+}
+#line1{
+  position: absolute;
+  background-color: blue;
+  top: 4.8%;
+  left: 1.8%;
+  height: 2.5px;
+  width: 100px;
+}
+#line{
+  position: absolute;
+ background-color: rgb(204, 201, 201);
+  top: 5%;
+  left: 1.8%;
+  height: 1px;
+  width: 1200px;
+}
+#choose{
+  position: absolute;
+  top: 5%;
+  left: 1.8%;
+}
+.boxes{
+  position: absolute;
+ display: flex;
+ margin-left: 10px;
+ top: 15%;
+ left: 2%;
+}
+.b1{
+  position: relative;
+  height: 219px;
+  width: 219px;
+  background-color: #F2F2F2;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+.boxes1{
+  position: absolute;
+  display: flex;
+  margin-left: 10px;
+  top: 105%;
+  left: -1%;
+}
+.b2{
+  height: 219px;
+  width: 219px;
+  background-color: #F2F2F2;
+  margin-left: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+#fep{
+position: absolute;
+height: 119px;
+width: 119px;
+top: 5%;
+left: 20%;
+}
+#f{
+  position: absolute; 
+  top: 60%;
+  left: 30%;
+  font-size: 20px;
+}
+#back{
+  position: absolute;
+  height: 119px;
+  width: 119px;
+  top: 5%;
+  left: 20%;
+}
+#b{
+    position: absolute; 
+    top: 60%;
+    left: 30%;
+    font-size: 20px;
+}
+#ios{
+  position: absolute; 
+  top: 60%;
+  left: 40%;
+  font-size: 20px;
+}
+#ml{
+  position: absolute; 
+  top: 60%;
+  left: 40%;
+  font-size: 20px;
+}
+#data{
+  position: absolute;
+  height: 119px;
+  width: 119px;
+  top: 15%;
+  left: 6.9%;
+}
+#da{
+  position: absolute; 
+  top: 65%;
+  left: 7%;
+  font-size: 20px;
+}
+#and{
+  position: absolute;
+  height: 119px;
+  width: 119px;
+  top: 15%;
+  left: 32%;
+}
+#an{
+  position: absolute; 
+  top: 65%;
+  left: 35%;
+  font-size: 20px;
+}
+#sd{
+  position: absolute;
+  height: 119px;
+  width: 119px;
+  top: 15%;
+  left: 56%;
+}
+#s{
+  position: absolute; 
+  top: 65%;
+  left: 51.9999%;
+  font-size: 20px;
+}
+#ui{
+  position: absolute;
+  height: 119px;
+  width: 119px;
+  top: 15%;
+  left: 81%;
+}
+#u{
+  position: absolute; 
+  top: 65%;
+  left: 85%;
+  font-size: 20px;
+}
+
+
+
